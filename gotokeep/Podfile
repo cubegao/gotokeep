@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'gotokeep' do
+    pod 'Alamofire', '~> 4.7'
+    pod 'lottie-ios'
+end
